@@ -6,12 +6,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/line/line-bot-sdk-php.git",
-            "reference": "38528aaa3a1abc2809974ab65cdcb7579f9eb927"
+            "reference": "U9f3e4bf99525d593490bac0982259d17"
         },
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/line/line-bot-sdk-php/zipball/38528aaa3a1abc2809974ab65cdcb7579f9eb927",
-            "reference": "38528aaa3a1abc2809974ab65cdcb7579f9eb927",
+            "reference": "U9f3e4bf99525d593490bac0982259d17",
             "shasum": ""
         },
         "require": {
