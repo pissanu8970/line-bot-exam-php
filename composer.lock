@@ -42,12 +42,12 @@
             ],
             "authors": [
                 {
-                    "name": "moznion",
-                    "email": "moznion@gmail.com"
+                    "name": "pissanu",
+                    "email": "pongoubon@gmail.com"
                 },
                 {
-                    "name": "Satoru Yoshihara",
-                    "email": "vaduz0@gmail.com"
+                    "name": "pissanu",
+                    "email": "pongoubon@gmail.com"
                 }
             ],
             "description": "SDK of the LINE BOT API for PHP",
